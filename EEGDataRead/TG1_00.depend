@@ -1,0 +1,40 @@
+# depslib dependency file v1.0
+1432248053 source:c:\users\avila_000\google drive\maestrÍa\2015-1 trabajo de grado\programacion\tg1_00\main.cpp
+	<iostream>
+	<fstream>
+	<sstream>
+	<cstdlib>
+	<stdexcept>
+	<stdio.h>
+	<windows.h>
+	<conio.h>
+	<unistd.h>
+	<map>
+	"EmoStateDLL.h"
+	"edk.h"
+	"edkErrorCode.h"
+
+1425918392 c:\users\avila_000\google drive\maestrÍa\2015-1 trabajo de grado\programacion\tg1_00\lib\emostatedll.h
+	<sys/types.h>
+
+1425918317 c:\users\avila_000\google drive\maestrÍa\2015-1 trabajo de grado\programacion\tg1_00\lib\edk.h
+	"edkErrorCode.h"
+	"EmoStateDLL.h"
+	"elsClient.h"
+
+1425918349 c:\users\avila_000\google drive\maestrÍa\2015-1 trabajo de grado\programacion\tg1_00\lib\edkerrorcode.h
+
+1425918558 c:\users\avila_000\google drive\maestrÍa\2015-1 trabajo de grado\programacion\tg1_00\lib\elsclient.h
+
+1425918392 c:\users\avila_000\google drive\maestrÍa\2015-1 trabajo de grado\programacion\tg1_00\emostatedll.h
+	<sys/types.h>
+
+1425918317 c:\users\avila_000\google drive\maestrÍa\2015-1 trabajo de grado\programacion\tg1_00\edk.h
+	"edkErrorCode.h"
+	"EmoStateDLL.h"
+	"elsClient.h"
+
+1425918349 c:\users\avila_000\google drive\maestrÍa\2015-1 trabajo de grado\programacion\tg1_00\edkerrorcode.h
+
+1432216536 c:\users\avila_000\google drive\maestrÍa\2015-1 trabajo de grado\programacion\tg1_00\elsclient.h
+
