@@ -136,6 +136,7 @@ int main(int argc, char** argv) {
 
                 std::cout << "Updated " << nSamplesTaken << std::endl;
 
+                //Lectura de datos
                 if (nSamplesTaken != 0) {
 
                     double* data = new double[nSamplesTaken];
