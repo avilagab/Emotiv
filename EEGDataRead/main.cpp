@@ -17,6 +17,7 @@
 #include "EmoStateDLL.h"
 #include "edk.h"
 #include "edkErrorCode.h"
+#include "list"
 
 EE_DataChannel_t targetChannelList[] = {
 		ED_COUNTER,
